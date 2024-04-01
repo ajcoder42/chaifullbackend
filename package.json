@@ -1,0 +1,17 @@
+{
+  "name": "chaifullbackend",
+  "version": "1.0.0",
+  "description": "a full backend at chai or code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm start"
+  },
+  "keywords": [
+    "javascript",
+    "chai",
+    "backend"
+  ],
+  "author": "Abhishek Jha",
+  "license": "ISC"
+}
