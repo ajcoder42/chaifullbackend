@@ -28,5 +28,8 @@ app.use(
   })
 );
 
+// configuration of public assets like images, favicons, pdfs
+app.use(express.static("public"));
+
 // configuration of cookies
 app.use(cookieParser());
